@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="206f94ba-96cf-47c7-a905-7be797f5dc24" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/LoginPageStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US01_Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/E2Etest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/AnasayfaPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/HotelManagerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/HotelMyCampPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/HotelProjePage_US04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/HotelUserRegisterPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/US0004_AddHotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/pages/Us0006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/US0001/TC_0001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/US0001/TC_0002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/US0001/TC_0003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/US0001/TC_0004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/US0001/TC_0005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/smokeTests/NegativeLoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0002/US0002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0003/C01_LoginCreateANewAccount_Rapor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0003/C02_PositiveRegisterTestRapor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0003/C03_NegativeRegisterTestRapor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0003/C04_FakerClassIleKayitRaporlama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0004/TC001Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0004/TC002AddHotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0004/TC003SaveHotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0004/TC005AddedDataIsOK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0004/TC04SaveOK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0005/Us0005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0006/us006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0007/US07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0008/US0008_test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0009/TestCase001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0009/TestCase002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0009/TestCase003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0009/TestCase004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0009/TestCase005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0010/US0010.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/tests/us0010/US0010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/utilities/ConfigReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/utilities/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/utilities/ReusableMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/utilities/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/test/java/utilities/TestBaseRapor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/src/us10groupolarakcalistirma.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220035800.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220041815.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220042823.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220043058.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220091415.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220091634.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220091753.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220092029.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220092309.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220220092744.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223054911.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223055514.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223060013.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223060442.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223060631.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223061536.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223061742.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223062301.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223063036.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Rapor20220223063237.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/test0120220220042009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/test0120220220042944.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/test0520220221061900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/test0520220221063214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0420220220091727.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0420220220091857.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220220092527.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220220092902.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223055156.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223055746.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223060204.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223060544.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223060803.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223061658.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223061908.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HMCprojectTeam_09-master/test-output/Screenshots/testCase0520220223063127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotelMyCamp_Team09" beforeDir="false" afterPath="$PROJECT_DIR$/../HotelMyCamp_Team09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/src/test/java/day05_mavenProjectCreation/C01_FirstMavenClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Maven/src/test/java/day05_mavenProjectCreation/C02_Xpath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium4/JdbcBatch44/target/test-classes/dbStepdefinitions/DBUtilStepdefinition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Selenium4/JdbcBatch44/target/test-classes/dbStepdefinitions/DBUtillStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Selenium4/JdbcBatch44/target/test-classes/dbStepdefinitions/DBUtillStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/src/test/java/day06_JUnit/C01_Recap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/src/test/java/day06_JUnit/C02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/src/test/java/day06_JUnit/C03_FirstTestMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/src/test/java/day06_JUnit/C04_DifferentTestsinSinglePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/target/test-classes/day06_JUnit/C01_Recap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/target/test-classes/day06_JUnit/C02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/target/test-classes/day06_JUnit/C03_FirstTestMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../batch44_Juit/target/test-classes/day06_JUnit/C04_DifferentTestsinSinglePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.Batch44JUnit/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../com.Batch44JUnit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium/src/driver/chromedriver" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25rmOa1I5Ox5K74wd4NJhJQqJG6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showURL" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: TC01 User can sign in Successfully">
+    <configuration name="Feature: US01_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US01_Login.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AuroJewelry" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US01_Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01 User can sign in Successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US01_Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="AuroJewelry" />
+      <option name="NAME_FILTER" value="^TC01 User can sign in Successfully$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 User can sign in Successfully$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 User can sign in Successfully" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: TC01 User can sign in Successfully" />
+        <item itemvalue="Cucumber Java.Feature: US01_Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="206f94ba-96cf-47c7-a905-7be797f5dc24" name="Changes" comment="" />
+      <created>1646293550252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646293550252</updated>
+    </task>
+    <servers />
+  </component>
+</project>
